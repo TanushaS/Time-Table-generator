@@ -1,2 +1,2 @@
 # Time-Table-generator
-AI Project
+Artificial Intelligence Project - Time-Table Generator using Genetic Algorithm.
